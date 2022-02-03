@@ -1,0 +1,36 @@
+ 
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@900&display=swap');
+ 
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+    border-radius: 2px;
+ 
+}
+ 
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+ 
+ 
+#startStuff{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin: 10px;
+    gap: 10px;
+}
+ 
+
+button{
+    padding: 20px 60px;
+}
+
+/* #keanuimg{
+    transform: rotateX(30deg)
+ */
+}
